@@ -6,6 +6,10 @@
 
 ![Lannara GitHub stats](https://github-readme-stats.vercel.app/api?username=caslanna&show_icons=true&theme=radical)
 
+![Lannara GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=caslanna&theme=radical)
+
+
+
 ## Tecnologias que estou aprendendo!
 
 <div style="display: inline_block"><br/>
@@ -17,6 +21,6 @@
 
 </div><br>
 
-### Email para contato:
+### Email para contato
 ### caslanna@outlook.com
 
