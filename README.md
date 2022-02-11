@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Cássia Lannara! 😊
  
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A1ssia-lannara-silva-santos-1b19901b0/)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caslanna)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lannara.dev/)
 
 
